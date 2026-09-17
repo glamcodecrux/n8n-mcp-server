@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 仮想環境
+venv/
+.venv/
+
+# OS
+.DS_Store
+
+# エディタ
+.vscode/
+.idea/
